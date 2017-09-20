@@ -1,3 +1,6 @@
+# Declaring a dictionary in python
+# d = dict() or d = {}
+
 d = dict()
 d['a'] = 1
 d['b'] = 2
